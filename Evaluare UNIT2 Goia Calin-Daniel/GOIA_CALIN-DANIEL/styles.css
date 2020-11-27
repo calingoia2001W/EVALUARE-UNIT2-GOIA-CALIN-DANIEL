@@ -1,0 +1,55 @@
+body { background-color: NavajoWhite;}
+
+#info {font-family: "Courier New";
+       font-style:bold;
+	   font-size: 30px;
+	   margin: middle;
+	   color: rgb(211, 88, 21);
+}
+	   
+#contact {font-family: "Verdana";
+          font-style:bold;
+	      font-size: 20px;
+	      margin: middle;
+	      color: rgb(230, 184, 0);
+}
+
+#titluri {font-family: "Courier New";
+          font-style:bold;
+	      font-size: 25px;
+	      margin: middle;
+	      color: rgb(211, 88, 21);
+}
+
+#Diagram {border: 2px solid black;
+            border-radius: 12px;
+			width: 520px;
+            display: block;
+            padding: 2px;
+            margin: left;
+            opacity: 0.7;
+}
+
+#componente {font-family: "Comic Sans";
+             font-style: italic;
+             font-size: 20px;
+             color: rgb(213, 23, 34);
+}
+
+#caracteristici {font-family: "Comic Sans";
+             font-style: italic;
+             font-size: 20px;
+             color: rgb(213, 23, 34);
+}
+
+img {border: 3px solid Chocolate;
+          border=radius: 9px;
+	      width: 900px;
+	      display: block;
+	      padding: 1px;
+	      margin: left;
+	      opacity: 0.7;
+}
+
+table, tr, td, ul {border: 2px solid black;}
+tr:hover {background-color: BlanchedAlmond}
